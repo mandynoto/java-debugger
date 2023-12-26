@@ -1,0 +1,324 @@
+Detected Java version: 11 in: /Library/Java/JavaVirtualMachines/jdk-11.0.13.jdk/Contents/Home
+Detected OS: Mac OS X
+Trying to override old definition of task java
+Trying to override old definition of task input
+parsing buildfile jar:file:/Applications/NetBeans/Apache%20NetBeans%2013.app/Contents/Resources/NetBeans/netbeans/java/ant/nblib/org-netbeans-modules-debugger-jpda-ant.jar!/org/netbeans/modules/debugger/jpda/ant/antlib.xml with URI = jar:file:/Applications/NetBeans/Apache%20NetBeans%2013.app/Contents/Resources/NetBeans/netbeans/java/ant/nblib/org-netbeans-modules-debugger-jpda-ant.jar!/org/netbeans/modules/debugger/jpda/ant/antlib.xml from a zip file
+parsing buildfile jar:file:/Applications/NetBeans/Apache%20NetBeans%2013.app/Contents/Resources/NetBeans/netbeans/extide/ant/lib/ant.jar!/org/apache/tools/ant/antlib.xml with URI = jar:file:/Applications/NetBeans/Apache%20NetBeans%2013.app/Contents/Resources/NetBeans/netbeans/extide/ant/lib/ant.jar!/org/apache/tools/ant/antlib.xml from a zip file
+parsing buildfile jar:file:/Applications/NetBeans/Apache%20NetBeans%2013.app/Contents/Resources/NetBeans/netbeans/java/ant/nblib/org-netbeans-modules-debugger-jpda-ant.jar!/org/netbeans/modules/debugger/jpda/ant/antlib.xml with URI = jar:file:/Applications/NetBeans/Apache%20NetBeans%2013.app/Contents/Resources/NetBeans/netbeans/java/ant/nblib/org-netbeans-modules-debugger-jpda-ant.jar!/org/netbeans/modules/debugger/jpda/ant/antlib.xml from a zip file
+parsing buildfile jar:file:/Applications/NetBeans/Apache%20NetBeans%2013.app/Contents/Resources/NetBeans/netbeans/java/ant/nblib/org-netbeans-modules-java-source-ant.jar!/org/netbeans/modules/java/source/ant/antlib.xml with URI = jar:file:/Applications/NetBeans/Apache%20NetBeans%2013.app/Contents/Resources/NetBeans/netbeans/java/ant/nblib/org-netbeans-modules-java-source-ant.jar!/org/netbeans/modules/java/source/ant/antlib.xml from a zip file
+Trying to override old definition of task javac
+Trying to override old definition of task delete
+parsing buildfile jar:file:/Applications/NetBeans/Apache%20NetBeans%2013.app/Contents/Resources/NetBeans/netbeans/java/ant/nblib/org-netbeans-modules-java-source-ant.jar!/org/netbeans/modules/java/source/ant/antlib.xml with URI = jar:file:/Applications/NetBeans/Apache%20NetBeans%2013.app/Contents/Resources/NetBeans/netbeans/java/ant/nblib/org-netbeans-modules-java-source-ant.jar!/org/netbeans/modules/java/source/ant/antlib.xml from a zip file
+parsing buildfile jar:file:/Applications/NetBeans/Apache%20NetBeans%2013.app/Contents/Resources/NetBeans/netbeans/profiler/ant/nblib/org-netbeans-modules-profiler-nbimpl.jar!/org/netbeans/modules/profiler/nbimpl/antlib.xml with URI = jar:file:/Applications/NetBeans/Apache%20NetBeans%2013.app/Contents/Resources/NetBeans/netbeans/profiler/ant/nblib/org-netbeans-modules-profiler-nbimpl.jar!/org/netbeans/modules/profiler/nbimpl/antlib.xml from a zip file
+parsing buildfile jar:file:/Applications/NetBeans/Apache%20NetBeans%2013.app/Contents/Resources/NetBeans/netbeans/profiler/ant/nblib/org-netbeans-modules-profiler-nbimpl.jar!/org/netbeans/modules/profiler/nbimpl/antlib.xml with URI = jar:file:/Applications/NetBeans/Apache%20NetBeans%2013.app/Contents/Resources/NetBeans/netbeans/profiler/ant/nblib/org-netbeans-modules-profiler-nbimpl.jar!/org/netbeans/modules/profiler/nbimpl/antlib.xml from a zip file
+parsing buildfile jar:file:/Applications/NetBeans/Apache%20NetBeans%2013.app/Contents/Resources/NetBeans/netbeans/java/ant/nblib/org-netbeans-modules-javawebstart.jar!/org/netbeans/modules/javawebstart/antlib.xml with URI = jar:file:/Applications/NetBeans/Apache%20NetBeans%2013.app/Contents/Resources/NetBeans/netbeans/java/ant/nblib/org-netbeans-modules-javawebstart.jar!/org/netbeans/modules/javawebstart/antlib.xml from a zip file
+parsing buildfile jar:file:/Applications/NetBeans/Apache%20NetBeans%2013.app/Contents/Resources/NetBeans/netbeans/java/ant/nblib/org-netbeans-modules-javawebstart.jar!/org/netbeans/modules/javawebstart/antlib.xml with URI = jar:file:/Applications/NetBeans/Apache%20NetBeans%2013.app/Contents/Resources/NetBeans/netbeans/java/ant/nblib/org-netbeans-modules-javawebstart.jar!/org/netbeans/modules/javawebstart/antlib.xml from a zip file
+parsing buildfile jar:file:/Applications/NetBeans/Apache%20NetBeans%2013.app/Contents/Resources/NetBeans/netbeans/java/ant/nblib/org-netbeans-modules-ant-browsetask.jar!/org/netbeans/modules/ant/browsetask/antlib.xml with URI = jar:file:/Applications/NetBeans/Apache%20NetBeans%2013.app/Contents/Resources/NetBeans/netbeans/java/ant/nblib/org-netbeans-modules-ant-browsetask.jar!/org/netbeans/modules/ant/browsetask/antlib.xml from a zip file
+parsing buildfile jar:file:/Applications/NetBeans/Apache%20NetBeans%2013.app/Contents/Resources/NetBeans/netbeans/java/ant/nblib/org-netbeans-modules-ant-browsetask.jar!/org/netbeans/modules/ant/browsetask/antlib.xml with URI = jar:file:/Applications/NetBeans/Apache%20NetBeans%2013.app/Contents/Resources/NetBeans/netbeans/java/ant/nblib/org-netbeans-modules-ant-browsetask.jar!/org/netbeans/modules/ant/browsetask/antlib.xml from a zip file
+parsing buildfile /Users/mandynoto/Library/Caches/NetBeans/13/executor-snippets/run.xml with URI = file:/Users/mandynoto/Library/Caches/NetBeans/13/executor-snippets/run.xml
+Project base dir set to: /Users/mandynoto/Library/Caches/NetBeans/13/executor-snippets
+Build sequence for target(s) `run' is [-init-paths, -init-macrodef-java-with-modules, -init-macrodef-java-with-unnamed-module, -init-macrodef-java-without-modules, run]
+Complete build sequence is [-init-paths, -init-macrodef-java-with-modules, -init-macrodef-java-with-unnamed-module, -init-macrodef-java-without-modules, run, ]
+-init-paths:
+Override ignored for property "run.jvmargs"
+Override ignored for property "work.dir"
+Override ignored for property "application.args"
+-init-macrodef-java-with-modules:
+Skipped because property 'named.module.internal' not set.
+-init-macrodef-java-with-unnamed-module:
+creating macro  call-java
+-init-macrodef-java-without-modules:
+Skipped because property 'modules.supported.internal' set.
+run:
+Executing '/Library/Java/JavaVirtualMachines/jdk-11.0.13.jdk/Contents/Home/bin/java' with arguments:
+'-Dfile.encoding=UTF-8'
+'-classpath'
+'/Users/mandynoto/school/2022spring/csc413-01/labs/Interpreter/build/classes'
+'--module-path'
+'/Users/mandynoto/school/2022spring/csc413-01/labs/Interpreter/build/classes'
+'interpreter.Interpreter'
+'-d'
+'fib'
+The ' characters around the executable and arguments are
+not part of the command.
+****Debugging fib.x****
+
+   1. program { int x <-----
+   2.    int fib(int n) { 
+   3.        if (n <= 1) then
+   4.           { return 1 }
+   5.        else
+   6.            { if (n == 2) then
+   7.                 { return 1 }
+   8.              else
+   9.                 { return fib(n-2) + fib(n-1) }
+  10.            }
+  11.    }
+  12.    int k    x = 5
+  13.    k = write(fib(read()))
+  14.    { int x
+  15.      x = 7
+  16.      x = 8
+  17.    }
+  18.  }
+
+Type ? for help
+>> ?
+Debugger commands:   Description: 
+?                    -- Show a list of available debugging commands. 
+b                    -- Show a list of current breakpoints. 
+b <n,...>            -- Set a breakpoint at line n. (Can take multiple values) 
+bc <n,...>           -- Clear the breakpoint at line n. (Can take multiple values) 
+c                    -- Continue program execution until the next breakpoint. 
+f                    -- Show the function source code or thereof in the scope of a breakpoint. 
+i                    -- Step into an existing function call on the current line; otherwise step over. 
+o                    -- Step out of current function call activation. 
+n                    -- Step over the line. 
+q                    -- Quit the X Debugger. 
+p                    -- Print stack of function calls, along with line numbers of calling function. 
+t <on OR off>        -- Sets tracing to either on or off. 
+v                    -- Show variables in the current stack frame. 
+z                    -- Clear the screen. (Only works if this program was executed in the terminal)
+
+Type ? for help
+>> t on
+Tracing on
+
+Type ? for help
+>> b 3 13
+Breakpoint set: 3 13 
+
+Type ? for help
+>> c
+  main()
+
+   1. program { int x
+   2.    int fib(int n) { 
+*  3.        if (n <= 1) then
+   4.           { return 1 }
+   5.        else
+   6.            { if (n == 2) then
+   7.                 { return 1 }
+   8.              else
+   9.                 { return fib(n-2) + fib(n-1) }
+  10.            }
+  11.    }
+  12.    int k    x = 5
+* 13.    k = write(fib(read())) <-----
+  14.    { int x
+  15.      x = 7
+  16.      x = 8
+  17.    }
+  18.  }
+
+Type ? for help
+>> bc 3
+Breakpoint cleared: 3 
+
+Type ? for help
+>> v
+ x: 5
+ k: 0
+
+Type ? for help
+>> i
+  main()
+   Read()
+
+****READ****
+Type ? for help
+>> o
+Input an integer: 4
+  main()
+   Read()
+   exit: Read: 4
+
+   1. program { int x
+   2.    int fib(int n) { 
+   3.        if (n <= 1) then
+   4.           { return 1 }
+   5.        else
+   6.            { if (n == 2) then
+   7.                 { return 1 }
+   8.              else
+   9.                 { return fib(n-2) + fib(n-1) }
+  10.            }
+  11.    }
+  12.    int k    x = 5
+* 13.    k = write(fib(read())) <-----
+  14.    { int x
+  15.      x = 7
+  16.      x = 8
+  17.    }
+  18.  }
+
+Type ? for help
+>> i
+  main()
+   Read()
+   exit: Read: 4
+   fib(4)
+
+   2.    int fib(int n) {  <-----
+   3.        if (n <= 1) then
+   4.           { return 1 }
+   5.        else
+   6.            { if (n == 2) then
+   7.                 { return 1 }
+   8.              else
+   9.                 { return fib(n-2) + fib(n-1) }
+  10.            }
+  11.    }
+
+Type ? for help
+>> v
+ n: 4
+
+Type ? for help
+>> p
+fib: 2
+main: 13
+
+Type ? for help
+>> b
+Current breakpoints: 13 
+
+Type ? for help
+>> n
+  main()
+   Read()
+   exit: Read: 4
+   fib(4)
+
+   2.    int fib(int n) { 
+   3.        if (n <= 1) then <-----
+   4.           { return 1 }
+   5.        else
+   6.            { if (n == 2) then
+   7.                 { return 1 }
+   8.              else
+   9.                 { return fib(n-2) + fib(n-1) }
+  10.            }
+  11.    }
+
+Type ? for help
+>> o
+  main()
+   Read()
+   exit: Read: 4
+   fib(4)
+    fib(2)
+    exit: fib: 1
+    fib(3)
+     fib(1)
+     exit: fib: 1
+     fib(2)
+     exit: fib: 1
+    exit: fib: 2
+   exit: fib: 3
+
+   1. program { int x
+   2.    int fib(int n) { 
+   3.        if (n <= 1) then
+   4.           { return 1 }
+   5.        else
+   6.            { if (n == 2) then
+   7.                 { return 1 }
+   8.              else
+   9.                 { return fib(n-2) + fib(n-1) }
+  10.            }
+  11.    }
+  12.    int k    x = 5
+* 13.    k = write(fib(read())) <-----
+  14.    { int x
+  15.      x = 7
+  16.      x = 8
+  17.    }
+  18.  }
+
+Type ? for help
+>> b 16
+Breakpoint set: 16 
+
+Type ? for help
+>> c
+3
+  main()
+   Read()
+   exit: Read: 4
+   fib(4)
+    fib(2)
+    exit: fib: 1
+    fib(3)
+     fib(1)
+     exit: fib: 1
+     fib(2)
+     exit: fib: 1
+    exit: fib: 2
+   exit: fib: 3
+   Write(3)
+   exit: Write: 3
+
+   1. program { int x
+   2.    int fib(int n) { 
+   3.        if (n <= 1) then
+   4.           { return 1 }
+   5.        else
+   6.            { if (n == 2) then
+   7.                 { return 1 }
+   8.              else
+   9.                 { return fib(n-2) + fib(n-1) }
+  10.            }
+  11.    }
+  12.    int k    x = 5
+* 13.    k = write(fib(read()))
+  14.    { int x
+  15.      x = 7
+* 16.      x = 8 <-----
+  17.    }
+  18.  }
+
+Type ? for help
+>> v
+ x: 7
+ k: 3
+
+Type ? for help
+>> c
+  main()
+   Read()
+   exit: Read: 4
+   fib(4)
+    fib(2)
+    exit: fib: 1
+    fib(3)
+     fib(1)
+     exit: fib: 1
+     fib(2)
+     exit: fib: 1
+    exit: fib: 2
+   exit: fib: 3
+   Write(3)
+   exit: Write: 3
+
+   1. program { int x
+   2.    int fib(int n) { 
+   3.        if (n <= 1) then
+   4.           { return 1 }
+   5.        else
+   6.            { if (n == 2) then
+   7.                 { return 1 }
+   8.              else
+   9.                 { return fib(n-2) + fib(n-1) }
+  10.            }
+  11.    }
+  12.    int k    x = 5
+* 13.    k = write(fib(read()))
+  14.    { int x
+  15.      x = 7
+* 16.      x = 8 <-----
+  17.    }
+  18.  }
+
+******Execution Finished******
+BUILD SUCCESSFUL (total time: 2 minutes 7 seconds)
